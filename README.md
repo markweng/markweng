@@ -1,4 +1,4 @@
-
+[![Anurag's GitHub stats](https://github-readme-stats-markweng.vercel.app/api?username=markweng)](https://github.com/markweng)
 [![Top Langs](https://github-readme-stats-markweng.vercel.app/api/top-langs/?username=markweng)](https://github.com/markweng)
 
 <!--
